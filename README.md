@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**Krushna8585/Krushna8585** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 <h1 align="center">Hi 👋, I'm Krushna Madhav Bhalke</h1>
 <h3 align="center">Data Science learner and Enthusiastic From Pune, India</h3>
 
